@@ -66,18 +66,13 @@ Here are some stats of contribution and streak
 
 # Current Overview
 
-<div align="left">
-<a href="https://physicsofstupid.com/"><img align="right" src="./images/POS White Logo 150dpi.png"  width="200" alt="Physics of Stupid's Logo"/></a>
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+    <h3>💼 Co-Founder, Physics of Stupid | 3 Years of Innovation</h3>
+    <p>As the Co-Founder of Physics of Stupid, I've dedicated the past three years to transforming physics education into an engaging and humorous experience. Our mission is to make complex concepts accessible, entertaining, and, most importantly, memorable.</p>
+
+  </div>
+  <div style="flex: 1;">
+    <a style="margin-left: 10px" href="https://physicsofstupid.com/"><img align="right" src="./images/POS White Logo 150dpi.png"  width="200" alt="Physics of Stupid's Logo"/></a>
+  </div>
 </div>
-
-### 🔭 I’m working - Physics of Stupid.
-
-### 🔭 I’m working - Physics of Stupid.
-
-### 🔭 I’m working - Physics of Stupid.
-
-### 🔭 I’m working - Physics of Stupid.
-
-### 🔭 I’m working - Physics of Stupid.
-
-### 🔭 I’m working - Physics of Stupid.
