@@ -1,5 +1,5 @@
 <a href="https://saad-mahmud.com/">
-<img src="./images/Saad Mahmud Cover Image.jpg" />
+<img src="./images/Saad Mahmud Cover.jpg" />
 </a>
 
 <br></br>
