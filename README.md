@@ -59,5 +59,5 @@ Here are some stats of contribution and streak
 </h3>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=saad7mahmud&theme=transparent)](https://git.io/streak-stats" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=saad7mahmud&theme=monokai" />
 </p>
