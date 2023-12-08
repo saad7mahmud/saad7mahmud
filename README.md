@@ -4,7 +4,7 @@
 
 <br></br>
 
-# 👨‍💻 About Me:
+# 👨‍💻 About Me
 
 <h3 >
 🚀 Enthusiastic MERN Stack Developer <br>
@@ -13,7 +13,7 @@
 
 <br></br>
 
-# 🌟 Vision:
+# 🌟 Vision
 
 <h3 >
 Elevating lives through innovative web solutions. Committed to crafting user-centric digital experiences that inspire and drive positive change.
@@ -61,3 +61,23 @@ Here are some stats of contribution and streak
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=saad7mahmud&theme=transparent" />
 </p>
+
+<br></br>
+
+# Current Overview
+
+<div align="left">
+<a href="https://physicsofstupid.com/"><img align="right" src="./images/POS White Logo 150dpi.png"  width="200" alt="Physics of Stupid's Logo"/></a>
+</div>
+
+### 🔭 I’m working - Physics of Stupid.
+
+### 🔭 I’m working - Physics of Stupid.
+
+### 🔭 I’m working - Physics of Stupid.
+
+### 🔭 I’m working - Physics of Stupid.
+
+### 🔭 I’m working - Physics of Stupid.
+
+### 🔭 I’m working - Physics of Stupid.
