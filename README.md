@@ -12,7 +12,8 @@
 </h3>
 
 <br></br>
-# 🌟 Vision: 
+
+# 🌟 Vision:
 
 <h3 >
 Elevating lives through innovative web solutions. Committed to crafting user-centric digital experiences that inspire and drive positive change.
@@ -23,7 +24,7 @@ Elevating lives through innovative web solutions. Committed to crafting user-cen
 # ⚛️ Technologies
 
 <h3 align="center">
-My proficiency encompasses a diverse array of technologies
+My proficiency encompasses a diverse array of technologies.
 </h3>
 
 <br>
@@ -58,5 +59,5 @@ Here are some stats of contribution and streak
 </h3>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/demo/preview.php?user=saad7mahmud&theme=transparent" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=saad7mahmud&theme=transparent)](https://git.io/streak-stats" />
 </p>
