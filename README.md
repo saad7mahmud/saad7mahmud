@@ -4,10 +4,26 @@
 
 <br></br>
 
-# Technologies
+# 👨‍💻 About Me:
+
+<h3 >
+🚀 Enthusiastic MERN Stack Developer <br>
+💻 Building web experiences that blend functionality with elegance. <br> 🌐 Open to collaborations and always eager to learn.
+</h3>
+
+<br></br>
+# 🌟 Vision: 
+
+<h3 >
+Elevating lives through innovative web solutions. Committed to crafting user-centric digital experiences that inspire and drive positive change.
+</h3>
+
+<br></br>
+
+# ⚛️ Technologies
 
 <h3 align="center">
-My proficiency encompasses a diverse array of technologies.
+My proficiency encompasses a diverse array of technologies
 </h3>
 
 <br>
@@ -34,3 +50,13 @@ My proficiency encompasses a diverse array of technologies.
 <img src="./icons/Github.png"/>
 </p>
 <br/>
+
+# ⚛️ My Stats
+
+<h3 align="center">
+Here are some stats of contribution and streak
+</h3>
+
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com/demo/preview.php?user=saad7mahmud&theme=transparent" />
+</p>
