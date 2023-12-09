@@ -7,16 +7,21 @@
 # 👨‍💻 About Me
 
 <h3 >
-🚀 Enthusiastic MERN Stack Developer <br>
-💻 Building web experiences that blend functionality with elegance. <br> 🌐 Open to collaborations and always eager to learn.
+
+🚀 Enthusiastic MERN Stack Developer
+<br>
+
+💻 Building web experiences that blend functionality with elegance.
+<br>
+
+🌐 Open to collaborations and always eager to learn. <br>
+
+🎯 Vision: Elevating lives through innovative web solutions. Committed to crafting user-centric digital experiences that inspire and drive positive change.
+
 </h3>
 
-<br></br>
-
-# 🌟 Vision
-
 <h3 >
-Elevating lives through innovative web solutions. Committed to crafting user-centric digital experiences that inspire and drive positive change.
+
 </h3>
 
 <br></br>
@@ -59,10 +64,24 @@ Here are some stats of contribution and streak
 </h3>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=saad7mahmud&theme=transparent" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=saad7mahmud&theme=transparent" />
 </p>
 
 <br></br>
+
+<p align="center">
+  <img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad7mahmud&theme=aura" />
+</p>
+<p style="display: flex; " align="center">
+  <img
+  style="margin:10px"
+   width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saad7mahmud&theme=aura" />
+  <img style="margin:10px" width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saad7mahmud&theme=aura" />
+</p>
+<p style="display: flex;" align="center">
+  <img style="margin:10px" width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saad7mahmud&theme=aura" />
+  <img style="margin:10px" width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saad7mahmud&theme=aura&utcOffset=8" />
+</p>
 
 # 📊 Current Overview
 
@@ -75,6 +94,17 @@ Here are some stats of contribution and streak
   </div>
   <div style="flex: 1;">
     <a style="margin-left: 10px" href="https://physicsofstupid.com/"><img src="./images/POS White Logo 150dpi.png"  width="200" alt="Physics of Stupid's Logo"/></a>
+  </div>
+</div>
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+    <h3>🎓 Studying at University of Dhaka</h3>
+    <h3>⭐ Pursuing my Bachelor Degree</h3>
+    <p>Embarking on a transformative academic journey, I am currently pursuing my Bachelor's Degree at the prestigious University of Dhaka. I am eager to delve into various disciplines, forge meaningful connections, and lay the foundation for a promising future.</p>
+
+  </div>
+  <div style="flex: 1;">
+    <a style="margin-left: 10px" href="https://physicsofstupid.com/"><img src="./images/DU logo Dhaka_University_logo.svg"  width="200" alt="Physics of Stupid's Logo"/></a>
   </div>
 </div>
 
@@ -228,7 +258,7 @@ These features collectively create an attractive and functional website that pro
   <br>
   or create a file in root directory named .env and write the property DB_USER, DB_PASS and their value.
 - Don't forget to install dotenv
-<br> </br>
+  <br> </br>
 
 # Project 03: Tech Valley
 
@@ -272,7 +302,7 @@ Here's a brief description for project feature:
 3. In brand brand product page, there is an advertisement carousel on the top with three images and 4 product card below.
 4. On product card, user will see details button and update button, both the routes are private.
 5. When clicking details button user will see the details of that specific product and there is a add to cart button.
- 6. If he clicks add to cart, the product will be listed on cart page.
+6. If he clicks add to cart, the product will be listed on cart page.
 7. And update button will redirect to a page when all the product details can be updated.
 8. There is a add product option, when user can upload products.
 9. Email and Password based authentication and Google authentication is set up.
