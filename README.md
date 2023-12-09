@@ -25,10 +25,7 @@
 </h3>
 <br></br>
 
-# 👨‍💻 # Connect With Me
-
-
-# 
+# 👨‍💻  Connect With Me
 
 <div style="display: flex; justify-content:center; margin-top:40px; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.linkedin.com/in/saad7mahmud" target="_blank">
