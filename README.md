@@ -228,3 +228,60 @@ These features collectively create an attractive and functional website that pro
   <br>
   or create a file in root directory named .env and write the property DB_USER, DB_PASS and their value.
 - Don't forget to install dotenv
+<br> </br>
+
+# Project 03: Tech Valley
+
+Here I built a website of selling Tech Gadget.
+
+## Overview
+
+Tech Valley stands as your premier destination for cutting-edge technology. Explore our curated collection of top-tier mobiles, laptops, and accessories to enhance your digital lifestyle. Immerse yourself in the pinnacle of innovation with TechValley.
+
+## Live Website
+
+- Check out the live demo [here](https://tech-valley-a10.web.app)
+
+## Client Code
+
+- The client-side code is available [here](https://github.com/saad7mahmud/TechValley-Client-Side)
+
+## Server Code
+
+- The server-side code is available [here](https://github.com/saad7mahmud/TechValley-Server-Side)
+
+## Technologies Used
+
+- HTML
+- Tailwind CSS
+- JavaScript
+- ES6
+- React
+- React Router
+- Firebase
+- MongoDB
+- Express.js
+- Node.js
+
+## Features
+
+Here's a brief description for project feature:
+
+1. This website is a brand shop which name is TechValley
+2. There are six brand names in home page. User can see the brand based product.
+3. In brand brand product page, there is an advertisement carousel on the top with three images and 4 product card below.
+4. On product card, user will see details button and update button, both the routes are private.
+5. When clicking details button user will see the details of that specific product and there is a add to cart button.
+ 6. If he clicks add to cart, the product will be listed on cart page.
+7. And update button will redirect to a page when all the product details can be updated.
+8. There is a add product option, when user can upload products.
+9. Email and Password based authentication and Google authentication is set up.
+10. There is a review sending form where user can send review.
+
+## Getting Started
+
+- MongoDB URI has to be replaced with your own URI in server side code to run this project on your localhost.
+  Replace this with your Username and Password: <code>${process.env.DB_USER}:${process.env.DB_PASS}</code>
+  <br>
+  or create a file in root directory named .env and write the property DB_USER, DB_PASS and their value.
+- Don't forget to install dotenv
