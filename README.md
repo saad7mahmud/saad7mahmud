@@ -88,7 +88,7 @@ Here I built a website of a Real Estate Company.
 
 ## Overview
 
-BengalBreeze is a premier real estate platform dedicated to providing a seamless and enriching experience for individuals seeking their dream homes. Our platform brings together a curated selection of stylish homes in prime locations, offering a blend of comfort, convenience, and affordability. 
+BengalBreeze is a premier real estate platform dedicated to providing a seamless and enriching experience for individuals seeking their dream homes. Our platform brings together a curated selection of stylish homes in prime locations, offering a blend of comfort, convenience, and affordability.
 
 ## Live Website
 
@@ -155,6 +155,71 @@ Here's a brief description for project feature:
    - Provide a user-friendly display of reviews, including the reviewer's name, rating, and comments.
 
 These features cover a range of functionalities from user authentication to property management, transaction processing, and user engagement. If you have specific questions or need further assistance with any aspect of these features, feel free to ask!
+
+## Getting Started
+
+- MongoDB URI has to be replaced with your own URI in server side code to run this project on your localhost.
+  Replace this with your Username and Password: <code>${process.env.DB_USER}:${process.env.DB_PASS}</code>
+  <br>
+  or create a file in root directory named .env and write the property DB_USER, DB_PASS and their value.
+- Don't forget to install dotenv
+
+<br> </br>
+
+# Project 02: Zero Hunger
+
+Here I built a website of a Food Sharing Platform.
+
+## Overview
+
+Zero Hunger is a community-driven food sharing platform dedicated to reducing food waste, alleviating hunger, and fostering a sense of communal responsibility. The app strives to create a world where surplus food is shared among community members, ensuring that everyone has access to nutritious meals.
+
+## Live Website
+
+- Check out the live demo [here](https://bengal-breeze.web.app/)
+
+## Client Code
+
+- The client-side code is available [here](https://github.com/saad7mahmud/ZeroHunger-Client-Side)
+
+## Server Code
+
+- The server-side code is available [here](https://github.com/saad7mahmud/ZeroHunger-Server-Side)
+
+## Technologies Used
+
+- HTML
+- Tailwind CSS
+- JavaScript
+- ES6
+- React
+- React Router
+- Firebase
+- MongoDB
+- Express.js
+- Node.js
+
+## Features
+
+Here's a brief description for project feature:
+
+1. Homepage Banner:
+
+   - There is a visually appealing and informative banner on the homepage that introduces my website's mission and purpose.
+
+2. Our Features Section:
+
+   - A dedicated section that highlights the key features of my website, such as variety of foods, quality maintenance, and quick delivery.
+
+3. Responsive Design:
+
+   - This website appears to be responsive, ensuring that it looks good and functions well on various screen sizes and devices.
+
+4. Community Food Sharing:
+
+   - Though not explicitly mentioned, the context suggests that my website is built for community food sharing, where users can share surplus food with others in need.
+
+These features collectively create an attractive and functional website that promotes community food sharing and conveys my website's mission effectively. Users can easily understand the key features and benefits of using my platform.
 
 ## Getting Started
 
