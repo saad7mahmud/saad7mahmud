@@ -68,8 +68,9 @@ Here are some stats of contribution and streak
 
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 10px;">
-    <h3>💼 Co-Founder, Physics of Stupid | 3 Years of Innovation</h3>
-    <p>As the Co-Founder of Physics of Stupid, I've dedicated the past three years to transforming physics education into an engaging and humorous experience. Our mission is to make complex concepts accessible, entertaining, and, most importantly, memorable.</p>
+    <h3>💼 Co-Founder, Physics of Stupid | EdTech</h3>
+    <h3>⭐ Managing 400K+ Students</h3>
+    <p>As the Co-Founder of Physics of Stupid, I've dedicated the past three years to transforming physics education into a digitalized engaging and humorous experience to more than 400K students. Here I am playing the role of head of IT.</p>
 
   </div>
   <div style="flex: 1;">
