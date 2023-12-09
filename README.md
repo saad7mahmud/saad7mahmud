@@ -73,6 +73,6 @@ Here are some stats of contribution and streak
 
   </div>
   <div style="flex: 1;">
-    <a style="margin-left: 10px" href="https://physicsofstupid.com/"><img align="right" src="./images/POS White Logo 150dpi.png"  width="200" alt="Physics of Stupid's Logo"/></a>
+    <a style="margin-left: 10px" href="https://physicsofstupid.com/"><img src="./images/POS White Logo 150dpi.png"  width="200" alt="Physics of Stupid's Logo"/></a>
   </div>
 </div>
