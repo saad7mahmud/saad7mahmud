@@ -23,6 +23,42 @@
 <h3 >
 
 </h3>
+<br></br>
+
+# 👨‍💻 # Connect With Me
+
+
+# 
+
+<div style="display: flex; justify-content:center; margin-top:40px; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.linkedin.com/in/saad7mahmud" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+
+  <a href="https://github.com/saad7mahmud" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge" />
+  </a>
+
+  <a href="https://www.facebook.com/Life.of.SM" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+
+  <a href="https://www.instagram.com/saad7mahmud/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+
+  <a href="https://twitter.com/Saad7Mahmud" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+
+  <a href="mailto:saadmahmud123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
+  </a>
+
+  <a href="https://saad-mahmud.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website Badge" />
+  </a>
+</div>
 
 <br></br>
 
@@ -99,7 +135,7 @@ Here are some stats of contribution and streak
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 10px;">
     <h3>🎓 Studying at University of Dhaka</h3>
-    <h3>⭐ Pursuing my Bachelor Degree</h3>
+    <h3>⭐ Pursuing My Bachelor Degree</h3>
     <p>Embarking on a transformative academic journey, I am currently pursuing my Bachelor's Degree at the prestigious University of Dhaka. I am eager to delve into various disciplines, forge meaningful connections, and lay the foundation for a promising future.</p>
 
   </div>
