@@ -25,7 +25,7 @@
 </h3>
 <br></br>
 
-# 👨‍💻  Connect With Me
+# 📱 Connect With Me
 
 <div style="display: flex; justify-content:center; margin-top:40px; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.linkedin.com/in/saad7mahmud" target="_blank">
@@ -62,7 +62,7 @@
 # ⚛️ Technologies
 
 <h3 align="center">
-My proficiency encompasses a diverse array of technologies.
+My proficiency encompasses a diverse array of technologies
 </h3>
 
 <br>
@@ -116,7 +116,7 @@ Here are some stats of contribution and streak
   <img style="margin:10px" width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saad7mahmud&theme=aura&utcOffset=8" />
 </p>
 
-# 📊 Current Overview
+# 📊 My Current Overview
 
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 10px;">
@@ -137,7 +137,7 @@ Here are some stats of contribution and streak
 
   </div>
   <div style="flex: 1;">
-    <a style="margin-left: 10px" href="https://physicsofstupid.com/"><img src="./images/DU logo Dhaka_University_logo.svg"  width="200" alt="Physics of Stupid's Logo"/></a>
+    <a style="margin-left: 10px" href="https://www.du.ac.bd/"><img src="./images/DU logo Dhaka_University_logo.svg"  width="200" alt="Physics of Stupid's Logo"/></a>
   </div>
 </div>
 
@@ -145,9 +145,9 @@ Here are some stats of contribution and streak
 
 # 📊 My Projects
 
-# Project 01: Bengal Breeze
+# 🚀 Project 01: Bengal Breeze
 
-Here I built a website of a Real Estate Company.
+Bengal Breeze is a Real Estate Platform where people can buy and sell properties.
 
 ## Overview
 
@@ -219,19 +219,11 @@ Here's a brief description for project feature:
 
 These features cover a range of functionalities from user authentication to property management, transaction processing, and user engagement. If you have specific questions or need further assistance with any aspect of these features, feel free to ask!
 
-## Getting Started
-
-- MongoDB URI has to be replaced with your own URI in server side code to run this project on your localhost.
-  Replace this with your Username and Password: <code>${process.env.DB_USER}:${process.env.DB_PASS}</code>
-  <br>
-  or create a file in root directory named .env and write the property DB_USER, DB_PASS and their value.
-- Don't forget to install dotenv
-
 <br> </br>
 
-# Project 02: Zero Hunger
+# 🚀 Project 02: Zero Hunger
 
-Here I built a website of a Food Sharing Platform.
+Zero Hunger is a community Food Sharing Platform.
 
 ## Overview
 
@@ -239,7 +231,7 @@ Zero Hunger is a community-driven food sharing platform dedicated to reducing fo
 
 ## Live Website
 
-- Check out the live demo [here](https://bengal-breeze.web.app/)
+- Check out the live demo [here](https://zero-hunger-80734.web.app/)
 
 ## Client Code
 
@@ -284,18 +276,11 @@ Here's a brief description for project feature:
 
 These features collectively create an attractive and functional website that promotes community food sharing and conveys my website's mission effectively. Users can easily understand the key features and benefits of using my platform.
 
-## Getting Started
-
-- MongoDB URI has to be replaced with your own URI in server side code to run this project on your localhost.
-  Replace this with your Username and Password: <code>${process.env.DB_USER}:${process.env.DB_PASS}</code>
-  <br>
-  or create a file in root directory named .env and write the property DB_USER, DB_PASS and their value.
-- Don't forget to install dotenv
-  <br> </br>
+<br> </br>
 
 # Project 03: Tech Valley
 
-Here I built a website of selling Tech Gadget.
+Here I built a website of selling and buying Tech Gadgets.
 
 ## Overview
 
@@ -341,10 +326,13 @@ Here's a brief description for project feature:
 9. Email and Password based authentication and Google authentication is set up.
 10. There is a review sending form where user can send review.
 
-## Getting Started
+# ⚠ Before Getting Started
 
-- MongoDB URI has to be replaced with your own URI in server side code to run this project on your localhost.
-  Replace this with your Username and Password: <code>${process.env.DB_USER}:${process.env.DB_PASS}</code>
+- MongoDB URI has to be replaced with your own URI in server side code to run the projects on your localhost.
+
+- Replace the username and password with your ones: <code>${process.env.DB_USER}:${process.env.DB_PASS}</code>
   <br>
-  or create a file in root directory named .env and write the property DB_USER, DB_PASS and their value.
-- Don't forget to install dotenv
+- or create a file in root directory named .env and write the property DB_USER, DB_PASS and their value.
+- Don't forget to install dotenv on backend.
+
+---
